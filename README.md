@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Caffeine and Code 
 -->
 
-![](https://github.com/season101/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/season101/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/season101/github-stats-api/blob/master/generated/overview.svg)
+![](https://github.com/season101/github-stats-api/blob/master/generated/languages.svg)
