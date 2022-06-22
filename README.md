@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Anything where I get to learn something meaningful.
 - 📫 How to reach me: [sijanmalla.me](http://sijanmalla.me/) 
 
-(Currently unvailable. Broke my website down when I was installing DRUPAL v8 CMS. P.s. because of my broke bank budget, I host my website on RaspberryPI web server at home.)
+(I host my website on web server at home.)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
