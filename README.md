@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Java, Spring, Python, JUPYTER Notebook and tons of other materials.
 - 🌱 I’m currently learning SQL Database, JDBC, Encryption, DS and Algo.
 - 👯 I’m looking to collaborate on Anything where I get to learn something meaningful.
-- 📫 How to reach me: [sijanstudycomputers.com](http://sijanstudycomputers.com/) 
+- 📫 How to reach me: [sijanmalla.me](http://sijanmalla.me/) 
 
 (Currently unvailable. Broke my website down when I was installing DRUPAL v8 CMS. P.s. because of my broke bank budget, I host my website on RaspberryPI web server at home.)
 <!--
