@@ -5,15 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-## I am Sijan Malla. Junior at University of Louisiana Monroe.
+## I am Sijan Malla. Senior at University of Louisiana Monroe.
 **Nice to see you over here.**
 
-- 🔭 I’m currently working on Java, Spring, Python, JUPYTER Notebook and tons of other materials.
-- 🌱 I’m currently learning SQL Database, JDBC, Encryption, DS and Algo.
+- 🔭 I’m currently working at DXC Technology as an Undergraduate Student Intern.
+- 🌱 I’m currently learning AWS, Java, Spring Boot, Angular, Flask, Python, JUPYTER Notebook and tons of other materials.
 - 👯 I’m looking to collaborate on Anything where I get to learn something meaningful.
-- 📫 How to reach me: [sijanmalla.me](http://sijanmalla.me/) 
 
-(I host my website on web server at home.)
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
