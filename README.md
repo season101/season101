@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-## I am Sijan Malla. Senior at University of Louisiana Monroe.
+## I am Sijan Malla.
 **Nice to see you over here.**
 
-- 🔭 I’m currently working at DXC Technology as an Undergraduate Student Intern.
-- 🌱 I’m currently learning AWS, Java, Spring Boot, Angular, Flask, Python, JUPYTER Notebook and tons of other materials.
+- 🔭 I’m currently working at DXC Technology as an Associate Professional Application Developer.
+- 🌱 I’m currently learning React.js, Python, and Cloud Technologies.
 - 👯 I’m looking to collaborate on Anything where I get to learn something meaningful.
 
 <!--
